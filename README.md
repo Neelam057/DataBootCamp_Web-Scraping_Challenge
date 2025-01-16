@@ -1,4 +1,4 @@
-# Mars Web Scraping and Data Analysis Project
+# Mars Web Scraping and Data Analysis
 
 ## Overview
 
@@ -46,10 +46,11 @@ This project involves scraping and analyzing data related to Mars news and weath
      - `month`: Martian month.
      - `min_temp`: Minimum temperature in Celsius.
      - `pressure`: Atmospheric pressure at Curiosity's location.
-   - Examine and, if necessary, convert the data types for proper analysis (e.g., convert date columns to `datetime`, or numerical values to `int` or `float`).
+
 
 3. **Files**:
    - `part_2_mars_weather.ipynb`: Jupyter notebook for scraping and analyzing Mars weather data.
+   - `mars_data.csv`: The Mars data DataFrame exported into a CSV file..
 
 
 
